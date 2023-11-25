@@ -1,3 +1,4 @@
+[Link](../lua/import/pluginscolorscheme.lua)
 ## Gruvbox
 ```lazy
 return {
