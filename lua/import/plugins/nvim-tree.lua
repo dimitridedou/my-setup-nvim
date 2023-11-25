@@ -3,7 +3,6 @@ return {
     dependencies = { "nvim-tree/nvim-web-devicons" },
     config = function()
       local nvimtree = require("nvim-tree")
-  
       -- recommended settings from nvim-tree documentation
       vim.g.loaded_netrw = 1
       vim.g.loaded_netrwPlugin = 1
@@ -15,8 +14,7 @@ return {
       -- configure nvim-tree
       nvimtree.setup({
         view = {
-          width = 60,
-          relativenumber = true,
+          width = 70
         },
         -- change folder arrow icons
         renderer = {
