@@ -1,1 +1,1 @@
-require("pistoliero.lazy")
+require("import.lazy")
