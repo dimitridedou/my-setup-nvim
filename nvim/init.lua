@@ -1,6 +1,5 @@
 require("import.lazy")
-vim.opt.relativenumber = true -- Εμφανίζει την αρίθμηση γραμμών 
--- Ενεργοποίηση αντιγραφής στο clipboard
-vim.opt.clipboard:append("unnamedplus")
+vim.opt.number = true -- Εμφανίζει την αρίθμηση γραμμών 
+vim.opt.clipboard:append("unnamedplus") -- Ενεργοποίηση αντιγραφής στο clipboard
 
 
