@@ -11,8 +11,4 @@
 - which-key.lua
 
 
-## Συντομεύσεις πληκτρολογίου
-|Συντόμευση|Εντολή|
-|---|---|
-|Ctr+o|`:NvimTreeToggle`|
-|Sift+f|`:Telescope find_files`|
+## [Συντομεύσεις πληκτρολογίου](https://grcodeclub.gr/linux/install/editor/neovim)
